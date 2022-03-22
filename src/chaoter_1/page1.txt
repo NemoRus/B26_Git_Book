@@ -1,10 +1,8 @@
 
 
 
-This is the start of my gitHub book
-
-Page 1 will help us to get started
-
-Java is awesome
-
-James Bonds somehow still with us i dont know why
+This is the start of my gitHub book.
+Page 1 will help us to get started.
+Java is awesome!
+===================================================
+James Bonds somehow still with us, I don't know why.
